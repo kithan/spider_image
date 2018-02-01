@@ -1,2 +1,4 @@
 # spider_image
-using webmagic toDownload Baidu Images 
+using webmagic to download Baidu Images 
+
+
